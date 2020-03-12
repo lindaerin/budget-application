@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+.about-title {
+  align-self: center;
+  line-height: 2;
+  font-family: Source Sans Pro;
+}
+
+.features img {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 370px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.aboutInfo {
+  display: flex;
+  align-content: center;
+  line-height: 2;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-size: medium;
+}
+
+.contact {
+  line-height: 4;
+}
+
+.btn-primary {
+  background-color: #96cafa;
+  border: 1px solid #67aae9;
+}
