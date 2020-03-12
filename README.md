@@ -12,8 +12,9 @@ npm start
 
 ## Depolyment
 Shows a demo of how the web page works:
-1. Display table to calculate budget  
-2 .Pie chart to breakdown grocery item cost
+1. Signup and Login Page (Created with Bootstrap) 
+2. Display table to calculate budget  
+3. Pie chart to breakdown grocery item cost
 
 
 ![Home Demo](demogif/part1.gif)
