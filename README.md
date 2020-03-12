@@ -17,7 +17,7 @@ Shows a demo of how the web page works:
 3. Pie chart to breakdown grocery item cost
 
 
-![Home Demo](demogif/part1.gif)
+![Home Demo](demogif/part1_1.gif)
 
 
 ![Login Demo](demogif/part2.gif)
